@@ -34,6 +34,8 @@
 - 💬 Ask me about JavaScript, ReactNative.
 </br>
 <div align="center">
+  
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+  
 </div>
 </div>
