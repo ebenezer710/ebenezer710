@@ -2,7 +2,7 @@
 <h2> Hello there, fellow <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
 </div>
 
-<details>
+
   <summary>☎️ Contact me</summary>
 <div>
   <samp>
@@ -27,4 +27,4 @@
     </p>
   </samp>
 </div>
-</details>
+
