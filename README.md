@@ -1,10 +1,6 @@
 <div align="center">
 <h2> Hello there, fellow <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
   
-  <p align="center">
-  <img src="https://github.com/ebenezer710/ebenezer710/blob/main/profile-banner.png" alt="Profile Banner" width="100%">
-</p>
-  
 </div>
 </br>
 <div>
@@ -26,8 +22,18 @@
   </samp>
 </div>
 
-<div align="center">
+</br>
+<h2> About Me </h2>
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on a project called Caminho da Roça.
+    
+- 👯 I’m looking to collaborate on Projects.
+  
+- 💬 Ask me about JavaScript, ReactNative.
 </br>
-</br>
+<div align="center">
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+</div>
 </div>
