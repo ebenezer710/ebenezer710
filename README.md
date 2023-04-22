@@ -32,14 +32,14 @@
     
 - 👯 I’m looking to collaborate on Projects.
 
-- 📫  thinking I’m currently open for: A new job opportunity
+- 📫 I’m currently open for: A new job opportunity
   
 - 💬 Ask me about JavaScript, ReactNative.
 </br>
 <div align="center">
  </br>
  </br>
-### 😜Here's a Joke for you:
+<h2> Here's a Joke for you </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
   
