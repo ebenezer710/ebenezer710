@@ -5,9 +5,8 @@
 <Br>
   
 <div align="center">
-  
+ 
 </div>
-</br>
 <div>
   <samp>
     <h2 align="center">You can reach me by:</h2>
@@ -54,7 +53,7 @@
   <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
   <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
     
-  </br></br>
+  </br>
 
 <div align="center">
  
