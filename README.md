@@ -9,7 +9,7 @@
 </div>
 <div>
   <samp>
-    <h2 align="center">You can reach me by:</h2>
+    <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">You can reach me by: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></h2>
     <p align="center">
       <br/>
       <a href="mailto:ebenezerholz710@gmail.com" target="blank"><img align="center"
