@@ -9,14 +9,10 @@
     <h2 align="center">You can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="" target="blank"><img align="center"
-         src="https://www.linkedin.com/in/eben%C3%A9zer-holz-a1ab9610a/"
-         alt="azzar" height="30"/></a>
       <a href="mailto:ebenezerholz710@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
+   
       <a href="https://www.instagram.com/ebenezer_holz/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
