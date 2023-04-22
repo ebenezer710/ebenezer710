@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+<hr>
+
 <div align="center">
   
-<h2> Hey! 👋 Nice to see you fellow <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
+<h2> Hey! I'm Ebenezer Holz </h2>
   
 </div>
 </br>
