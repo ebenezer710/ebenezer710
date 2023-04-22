@@ -1,5 +1,6 @@
 <div align="center">
-<h2> Hello there, fellow <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
+  
+<h2> Hey! 👋 Nice to see you fellow <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
   
 </div>
 </br>
@@ -30,12 +31,19 @@
 - 🔭 I’m currently working on a project called Caminho da Roça.
     
 - 👯 I’m looking to collaborate on Projects.
+
+- 📫  thinking I’m currently open for: A new job opportunity
   
 - 💬 Ask me about JavaScript, ReactNative.
 </br>
 <div align="center">
-  
+ </br>
+ </br>
+### 😜Here's a Joke for you:
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
   
 </div>
+
+</br>
+</br>
 </div>
