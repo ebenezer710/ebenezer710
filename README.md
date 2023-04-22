@@ -5,7 +5,6 @@
 <Br>
   
 <div align="center">
- 
   
 </div>
 </br>
@@ -41,9 +40,8 @@
   
 - 💬 Ask me about JavaScript, ReactNative.
 </br>
-<b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</b>
 
-<h2> Current skills  </h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Current skills  </h2>
   
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
@@ -59,8 +57,7 @@
   </br></br>
 
 <div align="center">
- </br>
- </br>
+ 
 <h2> Here's a Joke for you </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
