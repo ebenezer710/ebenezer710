@@ -31,7 +31,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on a project called Caminho da Roça.
+- 🔭 I’m currently working on GMax.
     
 - 👯 I’m looking to collaborate on Projects.
 
